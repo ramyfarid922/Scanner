@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446762578 source:d:\educational\projects\scanner\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<vector>
+	<fstream>
+
